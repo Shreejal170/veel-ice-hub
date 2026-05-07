@@ -54,7 +54,7 @@ src/
 Ensure you have [`uv`](https://github.com/astral-sh/uv) installed.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shreejal170/veel-ice-hub.git
 cd ice-hub
 
 # Create environment and install dependencies

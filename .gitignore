@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+Documents
+test.py
+# Node
+node_modules/
+frontend/dist/
+
+# Mac
+.DS_Store
